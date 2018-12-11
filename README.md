@@ -6,7 +6,10 @@ Tested using RHEL 7.6 x86_64. The efitools package provides many useful tools fo
 - sbsigntools
 - binutils-devel
 - openssl-devel
+- rpm-build
+- openssl
 
 ## Building
 - Clone this repository
 - Ensure all dependencies are met
+- run ./build.sh
